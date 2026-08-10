@@ -51,14 +51,13 @@ I build reliable backend services, data pipelines, and product experiences using
 **Data & messaging:** PostgreSQL, MongoDB, DynamoDB, Redis, Kafka, OpenSearch  
 **Cloud & tooling:** AWS, S3, CloudFront, Docker, Git, Linux, Kibana
 
-## GitHub dashboard
+## Developer snapshot
 
-<div align="center">
+| Competitive programming | Production engineering | Current build |
+|---|---|---|
+| LeetCode Knight · CodeChef 4★ · 800+ problems | Kafka · PostgreSQL · OpenSearch · Redis | [DigiSutra](https://github.com/roshanbirla07/DigiSutra) |
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=roshanbirla07&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="Roshan's GitHub stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=roshanbirla07&hide_border=true&theme=transparent" alt="Roshan's GitHub streak" />
-
-</div>
+> My contribution history and pinned repositories are available directly below this README in GitHub's native profile view.
 
 ## Engineering interests
 
