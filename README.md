@@ -21,6 +21,21 @@ I build reliable backend services, data pipelines, and product experiences using
 - 🏅 **LeetCode Knight (1900+)** · **CodeChef 4★**
 - 🚀 Currently building **DigiSutra**, a secure marketplace for digital products
 
+## Competitive programming
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-God__USOPPP-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/God_USOPPP/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-rbirla-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rbirla)
+[![Codeforces](https://img.shields.io/badge/Codeforces-rbirla-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/rbirla)
+
+</div>
+
+- **LeetCode:** Knight (1900+)
+- **CodeChef:** 4★
+- **Codeforces:** Competitive programming profile
+- **Problem solving:** 800+ DSA problems across platforms
+
 ## What I work on
 
 | Area | Focus |
@@ -55,7 +70,7 @@ I build reliable backend services, data pipelines, and product experiences using
 
 | Competitive programming | Production engineering | Current build |
 |---|---|---|
-| LeetCode Knight · CodeChef 4★ · 800+ problems | Kafka · PostgreSQL · OpenSearch · Redis | [DigiSutra](https://github.com/roshanbirla07/DigiSutra) |
+| [LeetCode](https://leetcode.com/u/God_USOPPP/) Knight · [CodeChef](https://www.codechef.com/users/rbirla) 4★ · [Codeforces](https://codeforces.com/profile/rbirla) · 800+ problems | Kafka · PostgreSQL · OpenSearch · Redis | [DigiSutra](https://github.com/roshanbirla07/DigiSutra) |
 
 > My contribution history and pinned repositories are available directly below this README in GitHub's native profile view.
 
